@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Annamalai Kannan
 
-<!--
-**AnnamalaiKannan47/AnnamalaiKannan47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior BI Analyst at TRENDS (Tuapeka Gold Print), based in Dunedin, New Zealand.
 
-Here are some ideas to get you started:
+I build reporting and financial data models using Power BI, DAX, SQL and Azure Databricks, with data from SYSPRO ERP. My portfolio documents the problems I've worked on, the technical decisions behind them, and how I validated the results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+
+**[BI & Data Portfolio](https://github.com/AnnamalaiKannan47/bi-data-portfolio)**: case studies grouped into Finance, Sales, Product and Operations.
+
+## Tools
+
+| Area | Tools |
+|---|---|
+| BI and reporting | Power BI, DAX, semantic modelling |
+| Data platforms | SQL, Azure Databricks |
+| ERP and finance | SYSPRO, reconciliation, multi-currency reporting |
+| Analysis | Python, pandas, scikit-learn, Jupyter |
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/annamalaikannan)
